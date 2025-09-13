@@ -11,4 +11,4 @@ It is discussed in chapter 3.
 
 Answers
 
-38. 
+38.
